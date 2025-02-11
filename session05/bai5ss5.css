@@ -1,0 +1,10 @@
+h1{
+    color: #178e8e;
+}
+div{
+    background-color: rgb(248, 225, 225);
+    border-left:5px solid rgb(180, 69, 135);
+}
+span{
+    font-family: sans-serif;
+}

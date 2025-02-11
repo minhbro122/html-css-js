@@ -1,0 +1,10 @@
+h2{
+    background-color: chocolate;
+    color: antiquewhite;
+    text-align: center;
+}
+h3{
+    color: color-mix(in hsl increasing hue, color percentage, color percentage);
+    background-color: rgb(198, 225, 198);
+    text-align: ;
+}
